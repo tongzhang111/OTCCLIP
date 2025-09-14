@@ -2,7 +2,7 @@
 Pre-training CLIP against Data Poisoning with Optimal Transport-based Matching and Alignment
 h1 align="center"><img src="model/docs/images/intro.png" width="75%"></h1>
 
-[[Paper](https://openreview.net/pdf?id=ONwL9ucoYG)]
+#[[Paper](https://openreview.net)]
 
 ## Overview
 ROCLIP is the **first** effective method for
